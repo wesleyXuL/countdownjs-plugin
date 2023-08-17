@@ -1,0 +1,16 @@
+{
+	"name": "countdownjs-plugin",
+	"version": "1.0.3",
+	"description": "倒计时插件，可生成多个倒计时",
+	"main": "countdown.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "wesley.xu",
+	"keywords": [
+		"countdown",
+		"countdownJs",
+		"Countdown"
+	],
+	"license": "ISC"
+}
