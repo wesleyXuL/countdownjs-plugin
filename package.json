@@ -1,6 +1,6 @@
 {
 	"name": "countdownjs-plugin",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "倒计时插件，可生成多个倒计时",
 	"main": "countdown.js",
 	"scripts": {
