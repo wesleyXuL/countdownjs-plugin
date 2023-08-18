@@ -11,7 +11,7 @@
 # 使用
 
 ```
-    import Countdown from 'Countdown';
+    import Countdown from 'countdownjs-plugin';
 
     // 创建倒计时1
     const countdown1 = new Countdown(
